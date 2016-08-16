@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group col-${1:md-4}" id="${2:id_date}">
+	<label class="font-noraml">${3:Text}</label>
+	<div class="input-group date">
+		<span class="input-group-addon">
+			<i class="fa fa-calendar"></i>
+		</span>
+		<input type="text" name="${2:id_date}" class="form-control" value="${4:03/04/2014}" readonly>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>date</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

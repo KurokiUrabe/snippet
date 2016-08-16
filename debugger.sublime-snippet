@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->library('console');
+\$this->output->enable_profiler(TRUE);
+console::log($0);
+]]>
+</content>
+<tabTrigger>console</tabTrigger>
+<scope>source.php</scope>
+</snippet>

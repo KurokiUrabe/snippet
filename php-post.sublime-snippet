@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$${1:Nombre de variable} = \$this->input->post("${1:Nomre de la variable de post}");
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>post</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

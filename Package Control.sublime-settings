@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"CodeIgniter Snippets",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"jQuery Snippets pack",
+		"JSLint",
+		"LoremGibson",
+		"Package Control",
+		"PhpDoc",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"Trimmer",
+		"Xdebug Client"
+	]
+}

@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<script type="text/javascript">
+	// IIFE - Immediately Invoked Function Expression
+	(function(yourcode) {
+
+		//The global jQuery object is passed as a parameter
+		yourcode(window.jQuery, window, document);
+
+	}(function(\$, window, document){
+
+		// The \$ is now locally scoped 	
+		\$(function() {
+
+			// The DOM is ready!
+
+			$1
+		});
+
+			// The rest of your code goes here!
+			$2
+		}
+	));
+</script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>iife</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

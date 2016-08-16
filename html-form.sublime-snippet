@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<form>
+	<div class="row">
+		<div class="form-group col-${1:md-3}">
+			<label for="example">Email address</label>
+			<input type="text" class="form-control" id="example" placeholder="example">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12" style="text-align: right;">
+			<button type="button" class="btn btn-primary" id="submit">Submit</button>
+		</div>
+	</div>
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
