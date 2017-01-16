@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?php echo base_url("${1:Hello motherfuker}") ?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>base_url</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

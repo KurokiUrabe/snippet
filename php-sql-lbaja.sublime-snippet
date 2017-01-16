@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->where("{\$this->TABLE_NAME}.lbaja",1);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lbaja</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

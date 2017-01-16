@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?php if(substr(\$this->session->userdata["accesos"][\$this->session->userdata["dataid"]]["permiso"],${1:1},${2:1})=="1"):?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>permiso</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,3 +1,15 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"save_on_focus_lost": true,
+	"trim_trailing_white_space_on_save": true
 }
