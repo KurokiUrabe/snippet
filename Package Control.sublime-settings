@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Bootstrap 3 Jade Snippets",
 		"Bootstrap 3 Snippets",
 		"Bootstrap 4 Snippets",
 		"BracketHighlighter",
 		"CodeIgniter Snippets",
 		"Color Highlighter",
+		"ColorPick",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
